@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.jamstudio.lv" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>jamstudio.lv - logo</title>
+ <link>http://www.jamstudio.lv/taxonomy/term/12/all</link>
+ <description></description>
+ <language>lv</language>
+<item>
+ <title>MomyFit</title>
+ <link>http://www.jamstudio.lv/momyfit</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:05:59 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">712 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>Espatte</title>
+ <link>http://www.jamstudio.lv/espatte</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:05:38 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">711 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>VFTK</title>
+ <link>http://www.jamstudio.lv/vftk</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:04:39 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">709 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>LLTAST </title>
+ <link>http://www.jamstudio.lv/lltast</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:03:19 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">707 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>Relini</title>
+ <link>http://www.jamstudio.lv/relini</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:02:12 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">705 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>RD Fabrika</title>
+ <link>http://www.jamstudio.lv/rd-fabrika</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 21 Jan 2015 12:00:56 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">703 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>BallyHoods (not approved)</title>
+ <link>http://www.jamstudio.lv/ballyhoods-not-approved</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Tue, 07 Jan 2014 16:25:30 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">690 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>Cēsis Hotel (logo redesign)</title>
+ <link>http://www.jamstudio.lv/cesis-hotel-logo-redesign</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Tue, 07 Jan 2014 16:24:00 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">689 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>WoodStyle</title>
+ <link>http://www.jamstudio.lv/woodstyle</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Tue, 07 Jan 2014 16:23:17 +0200</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">688 at http://www.jamstudio.lv</guid>
+</item>
+<item>
+ <title>Vidzemes Augstskola, ViA Alumni</title>
+ <link>http://www.jamstudio.lv/vidzemes-augstskola-via-alumni</link>
+ <description></description>
+ <category domain="http://www.jamstudio.lv/category/art/logo">logo</category>
+ <pubDate>Wed, 07 Aug 2013 09:55:06 +0300</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">684 at http://www.jamstudio.lv</guid>
+</item>
+</channel>
+</rss>
